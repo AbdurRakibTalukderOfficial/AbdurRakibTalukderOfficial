@@ -15,10 +15,4 @@ Welcome to my GitHub. I build and design everything in between.
 ---
 
 ## Reach me
-
-
-> 💡 Copy the email above or [click to email me](mailto:a@l-0.top)
-<pre>
-  you can contact us through telegram username : @realbhai4you
-  i would like to help you during installation of termux banner ;)
-</pre>
+<pre>a@l-0.top</pre>
