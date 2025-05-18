@@ -2,7 +2,7 @@
 
 **Did you predict me?**
 
-Welcome to my GitHub. I build things for the web, the cloud, and everything in between.
+Welcome to my GitHub. I build and design everything in between.
 
 ---
 
