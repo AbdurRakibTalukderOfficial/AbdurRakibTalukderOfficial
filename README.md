@@ -15,4 +15,4 @@ Welcome to my GitHub. I build and design everything in between.
 ---
 
 ## Reach me
-<pre>a@l-0.top</pre>
+```a@l-0.top```
