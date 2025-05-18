@@ -17,4 +17,4 @@ Welcome to my GitHub. I build and design everything in between.
 ## Reach me
 
 
-Or click: [![Email](https://img.shields.io/badge/Email-a@l--0.top-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a@l-0.top)
+> 💡 Copy the email above or [click to email me](mailto:a@l-0.top)
