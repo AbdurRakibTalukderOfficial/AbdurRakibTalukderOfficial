@@ -12,4 +12,4 @@ Welcome to my GitHub. I build and design everything in between.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
---Mail me : ```a@l-0.top```
+  Mail me : ```a@l-0.top```
